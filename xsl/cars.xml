@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "cars.xsl"?> 
+
+<cars>
+    <car>
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <year>2022</year>
+        <price>30000</price>
+    </car>
+    <car>
+        <brand>Honda</brand>
+        <model>Civic</model>
+        <year>2023</year>
+        <price>28000</price>
+    </car>
+    <car>
+        <brand>Ford</brand>
+        <model>Mustang</model>
+        <year>2021</year>
+        <price>55000</price>
+    </car>
+</cars>

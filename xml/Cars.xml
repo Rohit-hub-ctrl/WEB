@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<Cars>
+    <Car>
+        <Make>Toyota</Make>
+        <Model>Camry</Model>
+        <Year>2022</Year>
+        <Price>25000</Price>
+    </Car>
+    <Car>
+        <Make>Honda</Make>
+        <Model>Civic</Model>
+        <Year>2021</Year>
+        <Price>22000</Price>
+    </Car>
+    <Car>
+        <Make>Ford</Make>
+        <Model>Mustang</Model>
+        <Year>2023</Year>
+        <Price>35000</Price>
+    </Car>
+    <Car>
+        <Make>Hyundai</Make>
+        <Model>Creta</Model>
+        <Year>2020</Year>
+        <Price>18000</Price>
+    </Car>
+</Cars>
